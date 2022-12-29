@@ -16,6 +16,6 @@ This data contains several variables: age (17 and up), education level (preschoo
 race, gender, occupation, weekly working hours, etc. 
 We will be focusing on the prediction of average age, as well as the relationship between age and input variables in our project.
 
-#This projects is licensed [#LICENSE].
-
 # ...
+
+#This projects is licensed [#LICENSE].
