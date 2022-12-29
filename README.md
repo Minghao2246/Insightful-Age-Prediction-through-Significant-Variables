@@ -1,6 +1,8 @@
 # Predicting Age Using Significant Explanatory Variables
 # - STAT 301 Project
 
+Jessica Luo, Christina Pan, Minghao Wang & Minkyung Yun
+
 Various factors may contribute to estimating a person’s age. Factors which may be associated with age include employment status, 
 education level, and/or marital status. According to Statistics Canada, 15 to 24 were the most likely to work part-time, followed 
 by workers aged 55 and older. People in the core working ages of 25 to 54 were the least likely to be part-time. Additionally, 
