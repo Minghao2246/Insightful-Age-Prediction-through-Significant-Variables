@@ -1,4 +1,4 @@
-# STAT-301-Project
+# Predicting Age Using Significant Explanatory Variables - STAT 301 Project
 
 Various factors may contribute to estimating a person’s age. Factors which may be associated with age include employment status, 
 education level, and/or marital status. According to Statistics Canada, 15 to 24 were the most likely to work part-time, followed 
