@@ -13,4 +13,6 @@ The data we will be using was collected by Ronny Kohavi and Barry Becker, and ex
 This data contains several variables: age (17 and up), education level (preschool and above), marital status, relationship status, 
 race, gender, occupation, weekly working hours, etc. 
 We will be focusing on the prediction of average age, as well as the relationship between age and input variables in our project.
-...
+
+
+# ...
