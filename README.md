@@ -1,4 +1,4 @@
-# Insightful Age Prediction through Exploration Variables
+# Insightful Age Prediction through Significant Variables
 # - STAT 301 Project
 
 Jessica Luo, Christina Pan, Minghao Wang & Minkyung Yun
